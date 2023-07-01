@@ -1,0 +1,60 @@
+#main {
+    background-color:rgb(234, 226, 214);
+    border: 5px double rgb(208, 187, 155);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#title {
+    font-style: oblique;
+    text-align: center;
+    text-transform: uppercase;
+}
+h4 {
+    font-weight: lighter;
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+}
+
+#image {
+    border-radius: 10%;
+    border: 5px solid rgb(251, 229, 201);
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-caption {
+    font-variant: small-caps;
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+}
+h2{
+        text-align: start;
+}
+p{
+    text-align: left;
+    text-indent: 30px;
+}
+li {
+    text-align: left;
+    list-style-type: circle;
+}
+
+a{
+    text-decoration-line: none;
+}
+a:hover{
+    color: red;
+}
+a:active {
+    color: rgb(36, 231, 36);
+}
+a:visited {
+    color: gray;
+}
